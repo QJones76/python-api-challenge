@@ -9,6 +9,6 @@ For the second part, I took the pandas DataFrame from WeatherPy and created a ch
 
 ---
 ### Citations
-[OpenWeatherMap API](https://openweathermap.org/api)
-[Geoapify API](https://www.geoapify.com/)
+Use and read about [OpenWeatherMap API](https://openweathermap.org/api)
+Use and read about [Geoapify API](https://www.geoapify.com/)
 Download [citipy](https://pypi.org/project/citipy/) or read about it [here](https://github.com/wingchen/citipy)
